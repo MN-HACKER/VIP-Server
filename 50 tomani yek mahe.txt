@@ -1,5 +1,6 @@
+vless://fe344d07-f6b5-40f4-ac33-9720d5d0e9b0@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#19.55 گیگابایت باقیمانده
 vless://fe344d07-f6b5-40f4-ac33-9720d5d0e9b0@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#MN-HACKER
-vless://fe344d07-f6b5-40f4-ac33-9720d5d0e9b0@13.33.243.77:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#MN-HACKER
+vless://fe344d07-f6b5-40f4-ac33-9720d5d0e9b0@13.33.243.77:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#23 روز باقی مانده
 vless://fe344d07-f6b5-40f4-ac33-9720d5d0e9b0@13.224.103.71:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#MN-HACKER
 vless://fe344d07-f6b5-40f4-ac33-9720d5d0e9b0@13.225.78.106:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#MN-HACKER
 vless://fe344d07-f6b5-40f4-ac33-9720d5d0e9b0@13.225.78.129:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#MN-HACKER

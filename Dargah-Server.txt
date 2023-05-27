@@ -1,15 +1,1 @@
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#1.01 گیگابایت باقیمانده
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@13.33.243.77:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#22 روز باقی مانده
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@13.224.103.71:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@13.225.78.106:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@13.225.78.129:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@108.138.17.37:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@108.138.17.40:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@18.64.103.8:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@52.222.214.46:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@18.66.15.118:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@52.222.214.27:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@52.222.214.113:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@18.64.141.53:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5aff4192-05af-4468-8ff5-0ab264ef53fc@18.64.103.8:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
+vless://552d3b99-0db7-4620-b0b0-4588aecf3a15@91.107.210.35:443?security=reality&sni=discord.com&fp=chrome&pbk=71c4m-FD5URjGQqr0NmrOmFUoUn5Z8LmGzla90Y6iT4&sid=ee479df7&type=tcp#Watashi⚡️VPN

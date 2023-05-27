@@ -1,6 +1,6 @@
-vless://22d03a70-2fcf-422e-8374-08ddfe8bc40a@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#15.98 گیگابایت باقیمانده
+vless://22d03a70-2fcf-422e-8374-08ddfe8bc40a@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#13.73 گیگابایت باقیمانده
 vless://22d03a70-2fcf-422e-8374-08ddfe8bc40a@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://22d03a70-2fcf-422e-8374-08ddfe8bc40a@13.33.243.77:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#19 روز باقی مانده
+vless://22d03a70-2fcf-422e-8374-08ddfe8bc40a@13.33.243.77:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#18 روز باقی مانده
 vless://22d03a70-2fcf-422e-8374-08ddfe8bc40a@13.224.103.71:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
 vless://22d03a70-2fcf-422e-8374-08ddfe8bc40a@13.225.78.106:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
 vless://22d03a70-2fcf-422e-8374-08ddfe8bc40a@13.225.78.129:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN

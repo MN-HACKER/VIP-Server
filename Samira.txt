@@ -1,6 +1,7 @@
-vless://5511feff-a52c-4f94-8fe4-9e7995f6d271@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#10.0 گیگابایت باقیمانده
+vless://772d9e10-d2d3-480e-8a7c-c82003d492b2@91.107.210.35:443?security=reality&sni=discord.com&fp=chrome&pbk=71c4m-FD5URjGQqr0NmrOmFUoUn5Z8LmGzla90Y6iT4&sid=ee479df7&type=tcp#Watashi⚡️VPN__VIP
+vless://5511feff-a52c-4f94-8fe4-9e7995f6d271@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#9.49 گیگابایت باقیمانده
 vless://5511feff-a52c-4f94-8fe4-9e7995f6d271@figma.com:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
-vless://5511feff-a52c-4f94-8fe4-9e7995f6d271@13.33.243.77:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#14 روز باقی مانده
+vless://5511feff-a52c-4f94-8fe4-9e7995f6d271@13.33.243.77:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#12 روز باقی مانده
 vless://5511feff-a52c-4f94-8fe4-9e7995f6d271@13.224.103.71:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
 vless://5511feff-a52c-4f94-8fe4-9e7995f6d271@13.225.78.106:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN
 vless://5511feff-a52c-4f94-8fe4-9e7995f6d271@13.225.78.129:80?encryption=none&security=none&type=ws&host=dhg9kcw5npc8o.cloudfront.net&path=%2Fws#Watashi⚡️VPN

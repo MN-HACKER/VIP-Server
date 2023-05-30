@@ -1,1 +1,4 @@
-vless://772d9e10-d2d3-480e-8a7c-c82003d492b2@91.107.210.35:443?security=reality&sni=discord.com&fp=chrome&pbk=71c4m-FD5URjGQqr0NmrOmFUoUn5Z8LmGzla90Y6iT4&sid=ee479df7&type=tcp#Watashi⚡️VPN
+vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#15 GB Remaining
+vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#10 روز باقی مانده
+vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN
+vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN

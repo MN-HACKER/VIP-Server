@@ -1,4 +1,4 @@
-1. vless://616d606a-9da7-4906-8871-ab027f8642e2@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#15 GB Remaining
-2. vless://616d606a-9da7-4906-8871-ab027f8642e2@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#16 روز باقی مانده
+1. vless://616d606a-9da7-4906-8871-ab027f8642e2@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN_12.89GB
+2. vless://616d606a-9da7-4906-8871-ab027f8642e2@128.140.49.117:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#12 روز باقی مانده
 3. vless://616d606a-9da7-4906-8871-ab027f8642e2@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN
 4. vless://616d606a-9da7-4906-8871-ab027f8642e2@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN

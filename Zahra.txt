@@ -1,4 +1,4 @@
-vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN_10.15GB
+vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN_7.39GB
 vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@128.140.49.117:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#6 روز باقی مانده
-vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN
+vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@46.101.157.143:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#مخصوص همراه اول
 vless://38f018ce-4091-43ed-bb7d-f7ce05a1d202@88.99.226.123:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN

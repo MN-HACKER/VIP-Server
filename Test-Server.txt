@@ -1,4 +1,4 @@
-vless://fc86b763-df89-489c-acaf-d639df8cf4b1@irc2.gozargah.one:443?security=reality&sni=discord.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN_15.0GB
+vless://fc86b763-df89-489c-acaf-d639df8cf4b1@irc2.gozargah.one:443?security=reality&sni=discord.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN_27.0GB
 vless://fc86b763-df89-489c-acaf-d639df8cf4b1@irc2.gozargah.one:8443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN
 vless://fc86b763-df89-489c-acaf-d639df8cf4b1@irc.gozargah.one:443?security=reality&sni=discord.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN
 vless://fc86b763-df89-489c-acaf-d639df8cf4b1@irc.gozargah.one:8443?security=reality&sni=discord.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN

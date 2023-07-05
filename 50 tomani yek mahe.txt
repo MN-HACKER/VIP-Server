@@ -1,6 +1,4 @@
-vless://bee6fa32-3060-4e7d-99f6-eb20bea066bc@irc2.gozargah.one:443?security=reality&sni=discord.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN
-vless://bee6fa32-3060-4e7d-99f6-eb20bea066bc@irc2.gozargah.one:8443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#23.98GB
-vless://bee6fa32-3060-4e7d-99f6-eb20bea066bc@irc.gozargah.one:443?security=reality&sni=discord.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#21 روز باقی مانده
+vless://bee6fa32-3060-4e7d-99f6-eb20bea066bc@irc.gozargah.one:443?security=reality&sni=discord.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#14.66 GB
 vless://bee6fa32-3060-4e7d-99f6-eb20bea066bc@irc.gozargah.one:8443?security=reality&sni=discord.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN
 vless://bee6fa32-3060-4e7d-99f6-eb20bea066bc@hrh.gozargah.one:443?security=reality&sni=www.zula.ir&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#همراه اول
 vless://bee6fa32-3060-4e7d-99f6-eb20bea066bc@irc2.gozargah.one:2096?security=reality&sni=connectivitycheck.gstatic.com&fp=chrome&pbk=DD32tcj78deQKT7X63cVBtmxs2k4hKPgQ196UG7ygXM&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision#Watashi⚡️VPN
